@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+$theme-light: #ebd9c8;
+$theme-blue: #003f5a;
+$theme-orange: #de6600;
+
+/* Colors */
+$body-bg: $theme-light;
+$body-color: $theme-blue;
+$link-color: $theme-orange;
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+
+.navbar * {
+    color: $theme-blue;
+}
+
+span.navbar-title {
+    color: $theme-blue;
+    transition-duration: 0.5s;
+
+    &:hover {
+        color: lighten($theme-blue, 15%);
+        transition-duration: 0.5s;
+    }
+}

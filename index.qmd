@@ -1,0 +1,38 @@
+---
+title: "From Start to Finish: Visualizing Your Data"
+subtitle: "Visualization Day"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/tylermcinnes
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tyler-mcinnes-bb787bb4/
+---
+
+Good visualization is about more than just writing the correct code. Visualization is communication, and good communication requires thinking about how we as the scientist/data analyst/creator convey our message to the reader. This one-day workshop will provide you with a toolbox of skills and code examples to help you create clear, visually interesting visualizations which accurately communicate a message. 
+
+**This workshop has four components: **
+
+The basic code template for ggplot.
+
+Visualization for our selves (exploratory analysis).
+
+Examples of good visualization (with code).
+
+Visualizing your own data.
+
+
+
+
+## Education
+
+University of XYZ, City \| Location \| Sept 20XX - June 20XX
+
+## Experience
+
+Workplace \| Job title \| April 20XX - present
