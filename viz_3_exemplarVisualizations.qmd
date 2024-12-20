@@ -1,0 +1,8 @@
+---
+title: Exemplar visualizations - what far can we take it?
+toc: true
+---
+
+We've seen how to make 'quick and dirty' plots for ourselves. Now we will give you a glimpse of just how far you can take your visualizations. For this section we are looking at both code complexity and fundamental elements of design. The aim is to create visualizations that are clear and concise, which are also able to capture and hold attention. 
+
+Here we will provide guidelines on design and visualization while highlighting key examples from the scientific community. All code will be easily accesible for you to use as templates for your future work.

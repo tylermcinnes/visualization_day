@@ -1,0 +1,10 @@
+---
+title: Visualization for ourselves - Exploratory Analysis
+toc: true
+---
+
+Visualization is most often thought of as something we do for other people, to share some piece of knowledge we have. But equally important is the role visualization can play in us learning something about our data. Visualization can reveal trends or associations that we would otherwise struggle to identify in observations stored in rows and columns. 
+
+In this section we will perform some quick data transformations and create some simple visualizations. The output of this section does not need to be overly attractive, but it does need to be clear and should 'standalone' (i.e., should speak for itself, without the need of accompanying notes).
+
+Exploratory analysis is itself a highly useful skill, but it is also important to get some experience with data transformation - we will only rarely be lucky enough to get data in a format for visualization.
